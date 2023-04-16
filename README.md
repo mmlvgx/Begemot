@@ -1,2 +1,2 @@
 # Begemot
-Begemot — компилируемый язык программирования на Монгольском
+Begemot — is a compiled programming language in Mongolian
